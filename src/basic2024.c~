@@ -1,0 +1,16 @@
+//////////////////////////////////////////////////////////////////////////////
+///  BASIC 2024
+///  @copyright 2024 William R Cooke
+///  @brief a modern BASIC interpreter
+//////////////////////////////////////////////////////////////////////////////
+
+#include <stdio.h>
+
+int main(int argc, char*[] argv)
+{
+        printf("BASIC 2024 \n Copyright (c) 2024 William R Cooke \n");
+
+
+        return 0;
+}
+
